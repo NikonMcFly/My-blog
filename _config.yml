@@ -10,20 +10,18 @@ permalink:        pretty
 title:            Steven Osborne
 tagline:          'Home'
 description:      'Front-end <a href="https://github.com/nikonmcfly" target="_blank">Developer</a>. Interested in cool tech. Find me tweeting crazy <a href="https://twitter.com/x5tevex" target="_blank">@x5tevex</a>.'
-url:              http://sosborne.co
-baseurl:          /
+url:              'http://sosborne.co'
+baseurl:          ''
 
 
 email:          	stevenosborne15@gmail.com
 
 author:
   name:           'Steven Osborne'
-  url:            https://twitter.com/x5tevex
+  url:            'http://sosborne.co'
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
 
 github:
   repo:           https://github.com/nikonmcfly
