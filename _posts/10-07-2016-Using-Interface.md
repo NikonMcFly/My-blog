@@ -35,7 +35,6 @@ func (p fromChina) Name() string{
 	return p.key
 }
 
-
 type US struct {
 	key string
 }
