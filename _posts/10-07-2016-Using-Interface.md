@@ -12,6 +12,7 @@ Basically, It means that a type interface hold methods and/or when you want to u
 **This example is about a transaction between two countries would exchange goods and services using dollars.**
 
 {% highlight Go %}
+
 package main
 
 import (
